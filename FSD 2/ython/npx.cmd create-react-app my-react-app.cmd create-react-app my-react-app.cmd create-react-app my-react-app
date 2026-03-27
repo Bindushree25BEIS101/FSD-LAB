@@ -1,2 +1,0 @@
-npx.cmd create-react-app my-react-app
-cd.my-create-app npm -v

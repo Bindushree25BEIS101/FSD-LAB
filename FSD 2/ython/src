@@ -1,8 +1,0 @@
-function course(){
-    return<div>
-        <h1>Hello Welocome</h2>
-            <p>then is it full stack class</p>
-        </div>
-        );
-}
- expect default course
